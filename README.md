@@ -1,4 +1,4 @@
-# Core Spring Distilled: Koan 2
+# Core Spring Distilled: Koan 3
 
 This is a Koan from the Core Spring Distilled book from O'Reilly Media.
 
